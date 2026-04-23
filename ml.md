@@ -1,6 +1,6 @@
 ## AWS Machine Learning 
 
-- Rekognition: 얼굴 탐지, 라벨링, 유명인 인식
+- Rekognition: 얼굴 탐지, 라벨링, 유명인 인식 (ex) 원치않는 콘텐츠 필터링)
 - Transcribe: 오디오를 텍스트로 변환 (예: 자막)
 - Polly: 텍스트를 음성으로 변환
 - Translate: 번역 서비스
